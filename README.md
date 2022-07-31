@@ -50,3 +50,6 @@ b) Employees with performance score of 70 and above – High
 Performing
 4. Based on the performance of the employees, would you advice Ms.
 Pearce to go ahead with the gym?
+
+#Conclusion And Analysis
+Kindly check the project file. Note that document in xslm. fmt.
