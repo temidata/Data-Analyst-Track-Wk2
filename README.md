@@ -52,4 +52,5 @@ Performing
 Pearce to go ahead with the gym?
 
 # Conclusion And Analysis
-Kindly check the project file. Note that document in xslm. fmt.
+Kindly check the project file. The Castro Technologies Raw_file is the raw file from the Data source while the Castro Technologies_Analyzed is the edited file, I analyzed.
+Note that document in xslm. fmt.
