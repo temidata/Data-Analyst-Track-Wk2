@@ -53,4 +53,5 @@ Pearce to go ahead with the gym?
 
 # Conclusion And Analysis
 Kindly check the project file. The Castro Technologies Raw_file is the raw file from the Data source while the Castro Technologies_Analyzed is the edited file, I analyzed.
+Additional File: Execises of the basic Excel functions i worked on at that time.
 Note that document in xslm. fmt.
